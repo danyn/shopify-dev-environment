@@ -1,0 +1,29 @@
+{
+  "name": "shopify-partner-training-documentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "dotenv": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-changed": "^1.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.0.0",
+    "gulp-shopify-upload-with-callbacks": "^2.0.16",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.11",
+    "path": "^0.12.7",
+    "run-sequence": "^1.2.2"
+  }
+}
